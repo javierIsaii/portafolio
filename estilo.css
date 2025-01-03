@@ -221,7 +221,7 @@ svg {
 
 #icono-noscript {
   animation: alert 0.9s ease-in infinite;
-  background-image: url(/img/alert.svg);
+  background-image: url(img/alert.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 30px;
@@ -275,7 +275,7 @@ svg {
 
 #splash-screen .icono {
   align-items: center;
-  background-image: url(/img/icono.svg);
+  background-image: url(img/icono.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 90px;
@@ -1077,19 +1077,19 @@ svg {
 }
 
 .software.ae::before {
-  background-image: url("/img/ae.svg");
+  background-image: url("img/ae.svg");
 }
 
 .software.ps::before {
-  background-image: url("/img/ps.svg");
+  background-image: url("img/ps.svg");
 }
 
 .software.pr::before {
-  background-image: url("/img/pr.svg");
+  background-image: url("img/pr.svg");
 }
 
 .software.spine::before {
-  background-image: url("/img/spine.png");
+  background-image: url("img/spine.png");
 }
 
 .software:hover::before {
@@ -1180,7 +1180,7 @@ svg {
 }
 
 .embed-imagenFondo {
-  background-image: url("/img/vaper-iframe.webp");
+  background-image: url("img/vaper-iframe.webp");
   background-size: cover;
   bottom: 0;
   content: "";
@@ -1258,7 +1258,7 @@ svg {
 }
 
 .swanLink::after {
-  background-image: url("/img/ig-back.webp");
+  background-image: url("img/ig-back.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -1341,19 +1341,19 @@ svg {
 }
 
 .marca.empresa::before {
-  background-image: url(/img/logoexample.webp);
+  background-image: url(img/logoexample.webp);
 }
 
 .marca.company::before {
-  background-image: url(/img/exampleBrand.png);
+  background-image: url(img/exampleBrand.png);
 }
 
 .marca.instagram::before {
-  background-image: url(/img/ig-back.webp);
+  background-image: url(img/ig-back.webp);
 }
 
 .marca.javiers::before {
-  background-image: url(/img/bg-colors.webp);
+  background-image: url(img/bg-colors.webp);
 }
 
 .marca:hover::before {
@@ -1410,7 +1410,7 @@ svg {
 }
 
 .javierInfo::after {
-  background-image: url("/img/bg-colors.webp");
+  background-image: url("img/bg-colors.webp");
   background-size: cover;
   bottom: 0;
   content: "";
@@ -2017,7 +2017,7 @@ footer {
 
 .fiverr-card::before{
   content: "";
-  background-image: url(/img/fiverr.svg);
+  background-image: url(img/fiverr.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 32px;
@@ -2078,7 +2078,7 @@ footer {
 
 .gearIcon {
   animation: gear 2s infinite linear;
-  background-image: url(/img/settings.svg);
+  background-image: url(img/settings.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 50px;
@@ -2092,7 +2092,7 @@ footer {
 
 .searchIcon {
   animation: search 7s infinite ease-in-out;
-  background-image: url(/img/search.svg);
+  background-image: url(img/search.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 50px;
