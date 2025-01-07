@@ -23,7 +23,7 @@
 @font-face {
   font-display: swap;
   font-family: sofiaSans;
-  src: url(/fuente/SofiaSans-SemiCondensed.ttf);
+  src: url(fuente/SofiaSans-SemiCondensed.ttf);
 }
 
 * {
